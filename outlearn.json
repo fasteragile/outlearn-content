@@ -3,9 +3,9 @@
 
   "paths" : [
     {
-      "name" : "my-outlearn-path",
-      "title" : "My First Outlearn Path",
-      "description" : "Fastest Way to Publish a Path",
+      "name" : "heroku-performance-tuning",
+      "title" : "Learning from the Dynamic Duo: Tuning Heroku Dynos and Puma Thread in production",
+      "description" : "Notes on Heroku Performance Tuning",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
